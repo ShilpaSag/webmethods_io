@@ -1,4 +1,7 @@
-description: ,
-columnDelimiter: =,
-releaseCharacter: \,
-encodingType: UTF-8
+{
+"Key":"Value",
+"description":"refdata",
+"columnDelimiter":"=",
+"releaseCharacter":"\\",
+"encodingType":"UTF-8"
+}
