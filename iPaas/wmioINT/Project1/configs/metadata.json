@@ -2,6 +2,6 @@
 "Key":"Value",
 "description":"refdata",
 "columnDelimiter":"=",
-"releaseCharacter":"\\",
+"releaseCharacter":""",
 "encodingType":"UTF-8"
 }
